@@ -1,0 +1,29 @@
+.bck-image {
+    background-image: url("./img/cannabis-plant-2.jpg");
+    background-color: #cccccc;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+
+  .heading {    
+    margin-top: 4%;
+}
+
+  @media only screen and (max-width: 600px) {
+    .down {
+      margin-top: 10px;
+    }
+    .heading {
+        font-size: 30px;
+        margin-top: 20%;
+    }
+    .bl_heading {
+        font-size: 20px;
+    }
+    .warning {
+        font-size: 30px;
+    }
+  }
