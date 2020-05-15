@@ -1,0 +1,11 @@
+.loadmore {
+    background: #6F7280;
+    text-align: center;
+    text-transform: uppercase;
+    color: #D76E17;
+    padding: 20px;
+    font-weight: 300;
+    cursor: pointer;
+    margin-bottom: 20px;
+    width: 200px;
+}
